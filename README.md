@@ -73,9 +73,9 @@ I invite you to join me in this coding adventure! Whether you're a seasoned deve
 
 ## 📫 Connect with Me  
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)  
-- **GitHub**: [yourusername](https://github.com/yourusername)  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/ibrahimqasmi313/))  
+- **GitHub**: [yourusername]([https://github.com/yourusername](https://github.com/muhammadibrahim313))  
+- **Facebook**: [@yourhandle]([https://twitter.com/yourhandle](https://www.facebook.com/profile.php?id=61560872765839))  
 
 ## 📜 License  
 
