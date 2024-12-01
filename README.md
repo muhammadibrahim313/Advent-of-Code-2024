@@ -1,5 +1,4 @@
-# 🎄 Advent of Code 2024: My Coding Challenge Journey! 
-
+# 🎄 **𝗖𝗼𝗱𝗶𝗻𝗴 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗗𝗲𝗰𝗲𝗺𝗯𝗲𝗿 – 𝗟𝗲𝘁 𝘁𝗵𝗲 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗯𝗲𝗴𝗶𝗻!**
 <div align="center">
   <img src="https://wp.technologyreview.com/wp-content/uploads/2021/12/aoc-santa-hat.gif?w=1177" alt="Advent of Code" width="600" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
