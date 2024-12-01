@@ -38,7 +38,7 @@ To follow along with my solutions or to try the challenges yourself, follow thes
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/advent-of-code-challenge.git  
+   git clone https://github.com/muhammadibrahim313/Advent-of-Code-2024.git
    ```  
 
 2. **Navigate to a Specific Day**  
