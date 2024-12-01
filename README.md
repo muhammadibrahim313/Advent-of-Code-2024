@@ -7,7 +7,7 @@
 Welcome to the most **ELECTRIFYING** coding challenge of 2024! 💥 This isn't just a repository - it's a **CODING BATTLEGROUND** where logic meets creativity! 
 
 ### 🔥 Challenge Stats
-![Puzzle Solved](https://img.shields.io/badge/Puzzles%20Solved-0/25-red?style=for-the-badge)
+![Puzzle Solved](https://img.shields.io/badge/Puzzles%20Solved-1/25-red?style=for-the-badge)
 ![Days Remaining](https://img.shields.io/badge/Days%20Remaining-25-brightgreen?style=for-the-badge)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-LEGENDARY-blueviolet?style=for-the-badge)
 
