@@ -48,7 +48,7 @@ jupyter notebook Day1.ipynb
 
 | Day | Puzzle | Solution | LinkedIn Post |
 |-----|--------|----------|---------------|
-| 1   | ❄️ Day 1 | [📝 Solution](Day1/) | [🔗 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7268937345796620288/) |
+| 1   | ❄️ Day 1 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%201) | [🔗 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7268937345796620288/) |
 | 2   | ❄️ Day 2 | [📝 Solution](Day2/) | [🔗 LinkedIn Post](#) |
 | 3   | ❄️ Day 3 | [📝 Solution](Day3/) | [🔗 LinkedIn Post](#) |
 | 4   | ❄️ Day 4 | [📝 Solution](Day4/) | [🔗 LinkedIn Post](#) |
