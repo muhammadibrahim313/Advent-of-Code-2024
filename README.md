@@ -1,6 +1,3 @@
-Certainly! Below is a polished and comprehensive README for your GitHub repository tailored to your Advent of Code 25-day challenge. You can copy and paste this into your `README.md` file.
-
----
 
 # 🎄 Advent of Code Challenge 2024 🎄
 
@@ -82,6 +79,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 #AdventOfCode #CodingChallenge #Programming #25DaysOfCode #DecemberCoding #GitHub #JupyterNotebooks
 
----
 
-Feel free to customize the links, your username, and other personal details to fit your profile. This README provides a clear overview of your project, encourages collaboration, and makes it easy for others to follow along with your Advent of Code journey.
