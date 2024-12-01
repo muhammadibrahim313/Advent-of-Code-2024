@@ -81,10 +81,6 @@ jupyter notebook Day1.ipynb
 - 🏆 Challenge Status: Started
 
 
-### 📊 Challenge Statistics
-- ✅ Completed Days: 0/25
-- 🧊 Remaining Days: 25
-- 🏆 Current Status: Ready to Code!
 
 ## 🛠️ Technologies & Tools
 
