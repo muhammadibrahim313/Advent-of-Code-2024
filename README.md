@@ -43,14 +43,44 @@ cd Advent-of-Code-2024/Day1
 jupyter notebook Day1.ipynb
 ```
 
-## 🌈 Daily Progress Tracker
+
+
+## My Daily Progress & LinkedIn Updates
 
 | Day | Puzzle | Solution | LinkedIn Post |
 |-----|--------|----------|---------------|
-| 1   | ❄️ Day 1 | [📝 Solution](Day1/) | [🔗 LinkedIn Post](#) |
+| 1   | ❄️ Day 1 | [📝 Solution](Day1/) | [🔗 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7268937345796620288/) |
 | 2   | ❄️ Day 2 | [📝 Solution](Day2/) | [🔗 LinkedIn Post](#) |
-| ... | ... | ... | ... |
+| 3   | ❄️ Day 3 | [📝 Solution](Day3/) | [🔗 LinkedIn Post](#) |
+| 4   | ❄️ Day 4 | [📝 Solution](Day4/) | [🔗 LinkedIn Post](#) |
+| 5   | ❄️ Day 5 | [📝 Solution](Day5/) | [🔗 LinkedIn Post](#) |
+| 6   | ❄️ Day 6 | [📝 Solution](Day6/) | [🔗 LinkedIn Post](#) |
+| 7   | ❄️ Day 7 | [📝 Solution](Day7/) | [🔗 LinkedIn Post](#) |
+| 8   | ❄️ Day 8 | [📝 Solution](Day8/) | [🔗 LinkedIn Post](#) |
+| 9   | ❄️ Day 9 | [📝 Solution](Day9/) | [🔗 LinkedIn Post](#) |
+| 10  | ❄️ Day 10 | [📝 Solution](Day10/) | [🔗 LinkedIn Post](#) |
+| 11  | ❄️ Day 11 | [📝 Solution](Day11/) | [🔗 LinkedIn Post](#) |
+| 12  | ❄️ Day 12 | [📝 Solution](Day12/) | [🔗 LinkedIn Post](#) |
+| 13  | ❄️ Day 13 | [📝 Solution](Day13/) | [🔗 LinkedIn Post](#) |
+| 14  | ❄️ Day 14 | [📝 Solution](Day14/) | [🔗 LinkedIn Post](#) |
+| 15  | ❄️ Day 15 | [📝 Solution](Day15/) | [🔗 LinkedIn Post](#) |
+| 16  | ❄️ Day 16 | [📝 Solution](Day16/) | [🔗 LinkedIn Post](#) |
+| 17  | ❄️ Day 17 | [📝 Solution](Day17/) | [🔗 LinkedIn Post](#) |
+| 18  | ❄️ Day 18 | [📝 Solution](Day18/) | [🔗 LinkedIn Post](#) |
+| 19  | ❄️ Day 19 | [📝 Solution](Day19/) | [🔗 LinkedIn Post](#) |
+| 20  | ❄️ Day 20 | [📝 Solution](Day20/) | [🔗 LinkedIn Post](#) |
+| 21  | ❄️ Day 21 | [📝 Solution](Day21/) | [🔗 LinkedIn Post](#) |
+| 22  | ❄️ Day 22 | [📝 Solution](Day22/) | [🔗 LinkedIn Post](#) |
+| 23  | ❄️ Day 23 | [📝 Solution](Day23/) | [🔗 LinkedIn Post](#) |
+| 24  | ❄️ Day 24 | [📝 Solution](Day24/) | [🔗 LinkedIn Post](#) |
 | 25  | ❄️ Day 25 | [📝 Solution](Day25/) | [🔗 LinkedIn Post](#) |
+
+## Progress Overview
+
+- ✅ Completed Days: 1/25
+- 🧊 Remaining Days: 24
+- 🏆 Challenge Status: Started
+
 
 ### 📊 Challenge Statistics
 - ✅ Completed Days: 0/25
