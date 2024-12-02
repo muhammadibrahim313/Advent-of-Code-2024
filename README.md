@@ -76,8 +76,8 @@ jupyter notebook Day1.ipynb
 
 ## Progress Overview
 
-- ✅ Completed Days: 1/25
-- 🧊 Remaining Days: 24
+- ✅ Completed Days: 2/25
+- 🧊 Remaining Days: 23
 - 🏆 Challenge Status: Started
 
 
