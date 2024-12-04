@@ -51,7 +51,7 @@ jupyter notebook Day1.ipynb
 | 1   | ❄️ Day 1 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%201) | [🔗 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7268937345796620288/) |
 | 2   | ❄️ Day 2 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%202) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day2-codingchallenge-activity-7269254031460478977-Mu8Y?utm_source=share&utm_medium=member_desktop) |
 | 3   | ❄️ Day 3 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%203) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day3-codingchallenge-activity-7269580895940984832-p6V4?utm_source=share&utm_medium=member_desktop) |
-| 4   | ❄️ Day 4 | [📝 Solution](Day4/) | [🔗 LinkedIn Post](#) |
+| 4   | ❄️ Day 4 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%204) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day4-codingchallenge-activity-7269949501883248640-Zmz6?utm_source=share&utm_medium=member_desktop) |
 | 5   | ❄️ Day 5 | [📝 Solution](Day5/) | [🔗 LinkedIn Post](#) |
 | 6   | ❄️ Day 6 | [📝 Solution](Day6/) | [🔗 LinkedIn Post](#) |
 | 7   | ❄️ Day 7 | [📝 Solution](Day7/) | [🔗 LinkedIn Post](#) |
