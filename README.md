@@ -53,7 +53,7 @@ jupyter notebook Day1.ipynb
 | 3   | ❄️ Day 3 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%203) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day3-codingchallenge-activity-7269580895940984832-p6V4?utm_source=share&utm_medium=member_desktop) |
 | 4   | ❄️ Day 4 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%204) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day4-codingchallenge-activity-7269949501883248640-Zmz6?utm_source=share&utm_medium=member_desktop) |
 | 5   | ❄️ Day 5 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%205) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day5-codingchallenge-activity-7270308441674428416-w51G?utm_source=share&utm_medium=member_desktop) |
-| 6   | ❄️ Day 6 | [📝 Solution](Day6/) | [🔗 LinkedIn Post](#) |
+| 6   | ❄️ Day 6 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%206) | [🔗 LinkedIn Post](https://shorturl.at/bCxbB) |
 | 7   | ❄️ Day 7 | [📝 Solution](Day7/) | [🔗 LinkedIn Post](#) |
 | 8   | ❄️ Day 8 | [📝 Solution](Day8/) | [🔗 LinkedIn Post](#) |
 | 9   | ❄️ Day 9 | [📝 Solution](Day9/) | [🔗 LinkedIn Post](#) |
@@ -76,8 +76,8 @@ jupyter notebook Day1.ipynb
 
 ## Progress Overview
 
-- ✅ Completed Days: 4/25
-- 🧊 Remaining Days: 21
+- ✅ Completed Days: 6/25
+- 🧊 Remaining Days: 19
 - 🏆 Challenge Status: Started
 
 
