@@ -54,7 +54,7 @@ jupyter notebook Day1.ipynb
 | 4   | ❄️ Day 4 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%204) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day4-codingchallenge-activity-7269949501883248640-Zmz6?utm_source=share&utm_medium=member_desktop) |
 | 5   | ❄️ Day 5 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%205) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day5-codingchallenge-activity-7270308441674428416-w51G?utm_source=share&utm_medium=member_desktop) |
 | 6   | ❄️ Day 6 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%206) | [🔗 LinkedIn Post](https://shorturl.at/bCxbB) |
-| 7   | ❄️ Day 7 | [📝 Solution](Day7/) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_codingchallenge-problemsolving-logicpuzzles-activity-7271096594475708416-lLl7?utm_source=share&utm_medium=member_desktop) |
+| 7   | ❄️ Day 7 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%207) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_codingchallenge-problemsolving-logicpuzzles-activity-7271096594475708416-lLl7?utm_source=share&utm_medium=member_desktop) |
 | 8   | ❄️ Day 8 | [📝 Solution](Day8/) | [🔗 LinkedIn Post](#) |
 | 9   | ❄️ Day 9 | [📝 Solution](Day9/) | [🔗 LinkedIn Post](#) |
 | 10  | ❄️ Day 10 | [📝 Solution](Day10/) | [🔗 LinkedIn Post](#) |
