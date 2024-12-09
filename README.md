@@ -56,8 +56,8 @@ jupyter notebook Day1.ipynb
 | 6   | ❄️ Day 6 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%206) | [🔗 LinkedIn Post](https://shorturl.at/bCxbB) |
 | 7   | ❄️ Day 7 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%207) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_codingchallenge-problemsolving-logicpuzzles-activity-7271096594475708416-lLl7?utm_source=share&utm_medium=member_desktop) |
 | 8   | ❄️ Day 8 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%208) | [🔗 LinkedIn Post](#) |
-| 9   | ❄️ Day 9 | [📝 Solution](Day9/) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day8-codingchallenge-activity-7271395627610095619-6bZZ?utm_source=share&utm_medium=member_desktop) |
-| 10  | ❄️ Day 10 | [📝 Solution](Day10/) | [🔗 LinkedIn Post](#) |
+| 9   | ❄️ Day 9 | [📝 Solution](https://github.com/muhammadibrahim313/Advent-of-Code-2024/tree/main/DAY%209) | [🔗 LinkedIn Post](https://www.linkedin.com/posts/ibrahimqasmi313_adventofcode-day8-codingchallenge-activity-7271395627610095619-6bZZ?utm_source=share&utm_medium=member_desktop) |
+| 10  | ❄️ Day 10 | [📝 Solution](Day10/) | [🔗 LinkedIn Post]() |
 | 11  | ❄️ Day 11 | [📝 Solution](Day11/) | [🔗 LinkedIn Post](#) |
 | 12  | ❄️ Day 12 | [📝 Solution](Day12/) | [🔗 LinkedIn Post](#) |
 | 13  | ❄️ Day 13 | [📝 Solution](Day13/) | [🔗 LinkedIn Post](#) |
@@ -76,8 +76,8 @@ jupyter notebook Day1.ipynb
 
 ## Progress Overview
 
-- ✅ Completed Days: 8/25
-- 🧊 Remaining Days: 17
+- ✅ Completed Days: 9/25
+- 🧊 Remaining Days: 16
 - 🏆 Challenge Status: Started
 
 
