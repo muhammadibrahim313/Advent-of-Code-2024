@@ -19,10 +19,10 @@ Hey there! I'm taking on the **Advent of Code 2024 Challenge** - 25 days of codi
 
 ```
 Advent-of-Code-2024/
-├── Day1/
+├── Day01/
 │   ├── Day1.ipynb      # Jupyter Notebook with solution
 │   └── input.txt       # Puzzle input data
-├── Day2/
+├── Day02/
 │   ├── Day2.ipynb
 │   └── input.txt
 ...
